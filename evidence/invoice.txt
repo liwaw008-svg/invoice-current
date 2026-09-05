@@ -1,0 +1,1 @@
+Invoice IC-500: debtor Atlas Cooperative, amount 5000 units, delivery reference DEL-500, status unpaid and active.
