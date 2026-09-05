@@ -1,0 +1,28 @@
+{
+  "id": "IC-1788577580",
+  "transactions": {
+    "file": "0xc4996de30b264c3d6c2c859b4d6f0ba1e001d40bcce697ebcb87a8f5ba264e55",
+    "assess": "0x93ba38b178512a39677bbd64417865def7c03e957990782fd9a4a2982ad9a732",
+    "settle": "0x24b87af0847c442d561ca96c1ba90fbec233bcab2e20ba00e5df002f4cb5d6bf"
+  },
+  "state": {
+    "amount": 5000,
+    "debtor": "Atlas Cooperative",
+    "decision": "ELIGIBLE",
+    "digests": [
+      "b72e24a41a1ebbd4e385e38076cd01f5ed795638b3e9724a9816e55e8d8821d9",
+      "3bed8afd6006afd2d47362eae110cd729b1f93199037c5ee86021c35c2a4d119",
+      "6a45202766a1bf5232a5c43c0a2b521b9ada8779d4fb115a11cdcc8b9952488b"
+    ],
+    "expiry": 1788578180,
+    "id": "IC-1788577580",
+    "owner": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+    "riskCodes": [],
+    "sources": [
+      "https://raw.githubusercontent.com/liwaw008-svg/invoice-current/c77e9e7235379bc282b10a6626192330fb3580eb/evidence/invoice.txt",
+      "https://cdn.jsdelivr.net/gh/liwaw008-svg/invoice-current@c77e9e7235379bc282b10a6626192330fb3580eb/evidence/delivery.txt",
+      "https://github.com/liwaw008-svg/invoice-current/raw/c77e9e7235379bc282b10a6626192330fb3580eb/evidence/policy.txt"
+    ],
+    "state": "SETTLED"
+  }
+}
